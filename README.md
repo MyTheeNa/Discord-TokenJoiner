@@ -9,7 +9,6 @@
 
 ## 🌟 Features | คุณสมบัติ
 
-- 🚄 **Fast Processing** - Join multiple tokens simultaneously
 - ⚡ **Simple Setup** - Easy to use and configure
 - 🎯 **Token Management** - Efficient token handling
 - 📊 **Status Tracking** - Real-time join status monitoring
